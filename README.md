@@ -12,7 +12,6 @@ Technology Stack: HTML, CSS, JavaScript <br>
 Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division. <br>
 Clear Functionality: Reset the calculator with a clear button. <br>
 Bonus Functionality: Decimal Integration, Percentage Integration, Changing the sign of a variable (inputted number) <br>
-Keyboard Integration: To make the calculator easier to use. <br>
 Design: Based on the color scheme of the Windows Calculator + tweaked. 
 
 <h2>Learnings</h2>
