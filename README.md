@@ -17,14 +17,14 @@ Design: Based on the color scheme of the Windows Calculator + tweaked.
 
 <h2>Learnings</h2>
 
-Problem Solving Abilities <br>
-Array Methods  <br>
-Error Handling: <br> Addressed potential user errors, such as division by zero or malformed input, by ensuring the application behaves predictably. <br>
-State Management:Current and Previous Values: Managed the state of the calculator through variables that store the current value, previous value, and selected operator. <br>
-Operator Management: Implemented logic to manage and reset operators and values, ensuring accurate calculations. <br>
-Modular Functions: Wrote modular and reusable functions to handle different calculator functionalities, improving code maintainability. <br>
-Consistent Formatting: Applied consistent formatting and naming conventions to enhance code readability. <br>
-Practical Debugging
+~ Problem Solving Abilities <br>
+~ Array Methods  <br>
+~ Error Handling: Addressed potential user errors, such as division by zero or malformed input, by ensuring the application behaves predictably. <br>
+~ State Management via Current and Previous Values: Managed the state of the calculator through variables that store the current value, previous value, and selected operator. <br>
+~ Operator Management: Implemented logic to manage and reset operators and values, ensuring accurate calculations. <br>
+~ Modular Functions: Wrote modular and reusable functions to handle different calculator functionalities, improving code maintainability. <br>
+~ Consistent Formatting: Applied consistent formatting and naming conventions to enhance code readability. <br>
+~ Practical Debugging
 
 
 
