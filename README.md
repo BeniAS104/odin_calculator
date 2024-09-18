@@ -1,4 +1,4 @@
-<h1>Calculator App</h1>
+# [Calculator](http://calculator.bendev.dk/)
 A straightforward yet functional calculator application built with HTML, CSS, and JavaScript. This project was for the course i'm completing, namely The Odin Project to enhance my understanding of front-end development, particularly focusing on JavaScript functionality and UI/UX design.
 
 <h2>Project Brief</h2>
