@@ -1,13 +1,47 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
+    <title>Calculator - Benjamin Marzecki - The Odin Project</title>
+    <link rel="icon" href="vite.svg" />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div id="app"></div>
-    <script type="module" src="/main.js"></script>
+    <h1>The Odin Project - Calculator</h1>
+
+    <div class="calculator">
+      <div class="screen">
+        <div class="previous"></div>
+        <div class="current">0</div>
+      </div>
+
+      <button class="sign">+/-</button>
+      <button class="percent">%</button>
+      <button class="backspace">⌫</button>
+      <button class="operator">/</button>
+
+      <button class="number">7</button>
+      <button class="number">8</button>
+      <button class="number">9</button>
+      <button class="operator">*</button>
+
+      <button class="number">4</button>
+      <button class="number">5</button>
+      <button class="number">6</button>
+      <button class="operator">-</button>
+
+      <button class="number">1</button>
+      <button class="number">2</button>
+      <button class="number">3</button>
+      <button class="operator">+</button>
+
+      <button class="clear">AC</button>
+      <button class="number">0</button>
+      <button class="decimal">.</button>
+      <button class="equal">=</button>
+    </div>
+
+    <script src="main.js"></script>
   </body>
 </html>
